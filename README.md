@@ -34,8 +34,6 @@ I love building intelligent applications that blend **Java, SpringBoot, React.js
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### 🚀 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)
