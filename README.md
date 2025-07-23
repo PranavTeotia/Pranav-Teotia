@@ -1,18 +1,26 @@
 <h1 align="center">Hi there, I'm Pranav Teotia! 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranavteotia77/"><img src="https://img.shields.io/badge/LinkedIn-Pranav%20Teotia-blue?logo=linkedin" /></a>
-  <a href="mailto:pranavteotia77@gmail.com"><img src="https://img.shields.io/badge/Email-pranavteotia77@gmail.com-red?logo=gmail" /></a>
-  <a href="https://pranavteotiaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=firefox" /></a>
-<!--   <a href="https://pranavteotiaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Whatsapp-Visit-green?logo=Whatsapp" /></a>
- -->
+  <a href="https://www.linkedin.com/in/pranavteotia77/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Teotia-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pranavteotia77@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-pranavteotia77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://pranavteotiaportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox" alt="Portfolio" />
+  </a>
+  <a href="https://wa.me/919457396750" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
+
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Developer** and final-year B.Tech CSE student (2025) with a passion for FullStack Applications, backend systems, machine learning, and cloud technologies.  
+I'm a **Software Developer** and Graduate B.Tech CSE student (2025) with a passion for FullStack Applications, backend systems, machine learning, and cloud technologies.  
 I love building intelligent applications that blend **Java, SpringBoot, React.js, and AWS** with clean design and smart logic.
 
 - 🔭 Currently working on: AI-powered web apps & FullStack Applications
