@@ -15,9 +15,9 @@
 I'm a **Software Developer** and final-year B.Tech CSE student (2025) with a passion for FullStack Applications, backend systems, machine learning, and cloud technologies.  
 I love building intelligent applications that blend **Java, SpringBoot, React.js, and AWS** with clean design and smart logic.
 
-- 🔭 Currently working on: AI-powered web apps & real-time data dashboards
+- 🔭 Currently working on: AI-powered web apps & FullStack Applications
 - 🔍 Finalist for best project (TradeX - LSTM + FinBERT Stock Predictor)
-- 📈 Solved 300+ DSA problems on LeetCode (Top 10% in contests)
+- 📈 Solved 500+ DSA problems on LeetCode & GFG
 - 🌩 AWS Certified Cloud Practitioner (864/1000)
 - 💬 Open to full-time SDE opportunities in Fullstack/AI/Cloud
 
@@ -25,24 +25,41 @@ I love building intelligent applications that blend **Java, SpringBoot, React.js
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### 🚀 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Junit](https://img.shields.io/badge/JUnit-25A162?logo=java&logoColor=white)
 
-### 🧠 Tools & DB
+### 🧠 Tools & Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+
+### 🧮 CS Fundamentals
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blueviolet?logo=codeforces&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-%23007396.svg?logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Principles-orange?logo=java&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-%23323330.svg?logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-0052CC?logo=hackerrank&logoColor=white)
+![Software Testing](https://img.shields.io/badge/Software%20Testing-darkred?logoColor=white)
+
 
 ---
 ## 🧪 Projects
