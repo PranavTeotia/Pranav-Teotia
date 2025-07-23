@@ -45,12 +45,59 @@ I love building intelligent applications that blend **Java, SpringBoot, React.js
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
 ---
+## 🧪 Projects
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavTeotia&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavTeotia&layout=compact&theme=radical" width="48%" />
-</p>
+🎥 **TeamTalk – Real-Time Video Conferencing** (2025)  
+Built a WebRTC-based video conferencing app supporting **50+ concurrent users** with **<200ms latency**  
+Integrated screen sharing, chat, and meeting features with 95+ Lighthouse performance  
+Developed full-stack using **Java, Spring Boot, ReactJS**, and **Tailwind CSS** for 100% responsive design  
+
+📈 **TradeX – AI Stock Prediction Platform** (2025)  
+Built a stock market forecasting app using **LSTM** and **FinBERT**, trained on 10,000+ data points  
+Combined **time-series analysis** with **sentiment scoring**, achieving **<12% RMSE** and **92% classification accuracy**  
+Deployed with **Flask + Matplotlib**, supporting daily predictions & interactive charting via RESTful APIs  
+
+🍔 **CraveCart – Food Ordering Platform** (2024)  
+Engineered a responsive food delivery system with **ReactJS + TailwindCSS**, optimized for 500+ items  
+Implemented real-time filtering, cart sync, and dynamic content rendering, improving ordering speed by 25%  
+Used async JS for fetching & rendering across devices with 100% compatibility  
+
+
+## 🎓 Certificates
+
+- 🏅 [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1-VY0ZyJv2k1UMdJiE-A1zl63yeZY0sPI/view)
+- ☕ [Java Programming Certificate](https://www.hackerrank.com/certificates/f435610c3dab)
+- 💾 [SQL Proficiency Certificate](https://www.hackerrank.com/certificates/100e2f658093)
+- ⚛️ [ReactJS Certification](https://www.hackerrank.com/certificates/bc32d71b2906)
+- 🐍 [Python Certification](https://www.hackerrank.com/certificates/4bb9ecb28f4f)
+- 🧠 [Problem Solving Certificate](https://www.hackerrank.com/certificates/cd6482d8c331)
+
+## 🏆 Achievements
+
+🎯 Scored **864/1000** in AWS Certified Cloud Practitioner  
+💪 Maintained a **100+ day streak** on LeetCode with **200+ problems solved**  
+📊 Rank - **128** at Institute on GFG  with **300+ problems solved**
+🥉 Secured **Top 3 position** for final-year project “Stock Market Prediction using LSTM + FinBERT”  
+🚀 Successfully completed 10 Weeks AI-ML Virtual Internship From JULY - SEP 2024 at AICTE-EduSkills 
+
+
+## 🎓 Education
+
+🏫 **Meerut Institute of Engineering and Technology**  
+📍 Uttar Pradesh, India  
+🧑‍🎓 **B.Tech in Computer Science and Engineering** (2021 – 2025)  
+📊 **CGPA**: 7.0 / 10  
+📚 **Courses**: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, Machine Learning, Software Testing, OOP  
+🗓️ **Duration**: September 2021 – July 2025
+
+🏫 **Dayawati Modi Academy – CBSE Board**  
+📍 Meerut, Uttar Pradesh  
+🎓 **Class 12 (PCM)** | **2020 – 2021**  
+📈 **Percentage**: 89%  
+📘 **Subjects**: Physics, Chemistry, Mathematics
+
+🎓 **Class 10** | **2018 – 2019**  
+📈 **Percentage**: 82%
 
 ---
 
