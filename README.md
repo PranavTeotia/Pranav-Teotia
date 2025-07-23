@@ -1,19 +1,20 @@
 <h1 align="center">Hi there, I'm Pranav Teotia! 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranavteotia77/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Teotia-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/pranavteotia77/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Teotia-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:pranavteotia77@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-pranavteotia77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:pranavteotia77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-pranavteotia77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://pranavteotiaportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox" alt="Portfolio" />
+  <a href="https://pranavteotiaportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://wa.me/919457396750" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <a href="https://wa.me/919457396750">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
